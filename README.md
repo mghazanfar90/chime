@@ -12,6 +12,8 @@ To get started, follow these steps:
 
 3. Install the project dependencies:`yarn install`
 
+4. Install POD for iOS inside ios directory: `pod install`
+
 
 ## Start the Metro Server
 

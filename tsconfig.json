@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "types": [
+      "@types/jest"
+    ],
+  },
+  "extends": "@react-native/typescript-config/tsconfig.json"
+}

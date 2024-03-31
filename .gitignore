@@ -1,0 +1,33 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Android build output
+android/app/build/
+
+# Ignore iOS build output
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/*.xcworkspace
+ios/*.xcuserdatad/
+
+# Ignore Metro Bundler cache
+metro-cache/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore environment-specific files
+.env
+
+# Ignore fastlane files
+fastlane/report.xml
+fastlane/screenshots/
+
+# Ignore any personal IDE configurations
+.vscode/
+.idea/
